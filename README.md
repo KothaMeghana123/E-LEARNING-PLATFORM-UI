@@ -29,3 +29,7 @@ Styling is handled primarily through Bootstrap’s utility classes, which help r
 The use of Bootstrap in this project significantly speeds up development and ensures the design is mobile-first and fully responsive. It also provides a professional appearance with minimal effort. HTML structures the content semantically, CSS adds basic customization, and Bootstrap enhances interactivity and visual aesthetics.
 
 In conclusion, this e-learning platform front-end showcases how HTML, CSS, and Bootstrap can be combined to build a modern, accessible, and visually appealing learning environment. It is suitable for educational institutions, online course providers, or developers looking to prototype or deploy a scalable learning platform. Further enhancements like user authentication, quiz modules, and backend integration can be added as needed.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/984e45aa-0306-4cc8-ae20-d8600a37bfd7)
